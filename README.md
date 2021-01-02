@@ -1,6 +1,6 @@
 # D3 Bar Chart Of The United States GDP
 
-A D3 bar chart I made of the "United States GDP" for the freeCodeCamp "Bar Chart" challenge.
+*__A D3 bar chart I made of the "United States GDP" for the freeCodeCamp "Bar Chart" challenge.__*
 
 *The code is raw, unrefactored.* Since this was a code challenge I was trying to complete, I didn't delete the commented out code because I was more concerned with learning, experimenting, and completing the challenge than commented out code affecting the code's appearance. 
 
