@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+  position: relative;
+}
+
+svg {
+  border: 1px solid red;
+}
+
+.bar:hover {
+  fill: purple;
+}
